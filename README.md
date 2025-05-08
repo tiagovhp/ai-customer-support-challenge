@@ -1,45 +1,52 @@
-# AI Customer Support Strategy
+# AI Customer Support Challenge
 
-**Product-focused solution using LLMs, RAG, and classifier routing to safely automate customer support.**
-
----
-
-## 📌 Challenge Summary
-
-This repository contains my solution to an AI Product Manager challenge focused on improving customer support for a fictional company (MyServices).
-
-The objective was to design a scalable AI system capable of automating low-risk support tickets, while ensuring user satisfaction, fallback safety, and measurable success across Chat, SMS, and Email channels.
+**Product-focused solution using LLMs, RAG, and classifier-based routing to safely automate customer support.**
 
 ---
 
-## 🧠 Solution Overview
+## 📘 Overview
 
-- **LLM + RAG-powered AI agent** for handling general inquiries
-- **Classifier-based triage** to assess intent, urgency, and risk
-- **Confidence thresholds** to decide when to automate or escalate
-- **Fallback logic** for unclear or unsupported queries
-- **Phased rollout roadmap** (pilot → full scale)
-- **User feedback loop** to improve models and expand coverage
-- **Prompt engineering** for scoped use cases
+This project presents my response to an AI challenge focused on designing a scalable support system for a fictional company. The goal was to automate low-risk customer service tickets across Chat, SMS, and Email while maintaining user satisfaction and safe fallback mechanisms.
+
+---
+
+## 🚀 What’s Inside
+
+- ✅ Opportunity assessment based on volume, risk, and automation fit  
+- 🧠 Solution design combining RAG, LLMs, classifiers, fallback and escalation  
+- 🛠️ System architecture with triage and confidence thresholds  
+- 📊 Implementation roadmap with milestones and success metrics  
+- 💬 Prompt engineering for AI assistant use cases
 
 ---
 
 ## 📂 Files
 
-- `/docs/AI_PM_Challenge_TiagoFS.pdf` – Full solution document  
-- `/docs/AI_PM_Test_Customer_Support.pdf` – Original challenge brief  
-- `/prompts/` – Prompt design for General Info & Sign-Up Help  
-- `/images/` – Architecture diagrams and visual elements (optional)
+- [`docs/ai-customer-support-strategy-tiago-ferreira-da-silva.pdf`](docs/ai-customer-support-strategy-tiago-ferreira-da-silva.pdf)  
+  Full solution — opportunity assessment, system design, roadmap, and prompts
+
+- [`docs/ai-customer-support-challenge-brief.pdf`](docs/ai-customer-support-challenge-brief.pdf)  
+  Challenge description (anonymized, company-neutral)
 
 ---
 
-## 🛠️ Technologies & Concepts
+## 💡 Key Concepts
 
-- Python, LLMs, Embeddings, Retrieval-Augmented Generation (RAG)  
-- Classification models (intent, urgency, risk)  
+- Retrieval-Augmented Generation (RAG)  
 - Confidence-based routing  
-- Escalation/fallback logic  
-- Metrics: CSAT, AI resolution %, fallback %, escalation %
+- Intent, risk, and urgency classification  
+- Escalation vs fallback logic  
+- Continuous improvement via user feedback and agent corrections
+
+---
+
+## 🧪 Tools & Skills Demonstrated
+
+- Python, ML fundamentals, LLM behavior  
+- Architecture design for AI systems  
+- Product thinking + phased rollout planning  
+- Prompt engineering  
+- Success metrics and model evaluation logic
 
 ---
 
@@ -47,5 +54,4 @@ The objective was to design a scalable AI system capable of automating low-risk 
 
 **Tiago Ferreira da Silva**  
 📧 tiagovhpfs@gmail.com  
-🔗 [GitHub](https://github.com/tiagovhp) | [LinkedIn](https://linkedin.com/in/tiagovhp)
-
+🔗 [GitHub](https://github.com/tiagovhp) • [LinkedIn](https://linkedin.com/in/yourprofile)
